@@ -12,9 +12,3 @@ A full-stack note-taking application built with the MERN stack (MongoDB, Express
 - Environment variable management for sensitive data  
 - Deployment-ready configuration  
 
-## Getting Started
-
-### Prerequisites
-
-- Node.js and npm installed  
-- MongoDB instance (local or cloud)  
